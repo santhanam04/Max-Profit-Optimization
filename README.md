@@ -1,8 +1,10 @@
 🏗️ Max Profit Property Development Optimizer
 
 An end-to-end algorithmic + Streamlit + GitHub-ready solution for the Max Profit Problem.
-Live Demo https://max-profit-optimization-eythvph8e2tku8jg2bhfnw.streamlit.app/
+
 This project calculates the optimal mix of Theatres, Pubs, and Commercial Parks to maximize total earnings given a time constraint, and provides an interactive Streamlit web app.
+
+Live Demo https://max-profit-optimization-eythvph8e2tku8jg2bhfnw.streamlit.app/
 
 📌 Problem Summary
 
